@@ -1,0 +1,32 @@
+
+
+  .field label {
+    display: flex;
+    font-size: 12px;
+    color: #777;
+    justify-content:left;
+  }
+  
+  .field input {
+    display: flex;
+    min-width: 250px;
+    font-size: 14px;
+    justify-content:center;
+  }
+  
+  input[type="submit"] {
+    display: flex;
+    font-size: 14px;
+    background-color: #4460AA;
+    color: #fff;
+    border: blue;
+    justify-content:center;
+  }
+
+  .center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    display: flex;
+    justify-content:center;
+  }
